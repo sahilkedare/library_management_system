@@ -6,14 +6,6 @@ Project Name: Library Management System
 
 ------------
 
-Group Members:
-
-1. Aryan Devikar (191070007)
-2. Atharva Patil (191070053)
-3. Sahil Kedare (191070036)
-
-------------
-
 CONTENTS
 
 1. Introduction
