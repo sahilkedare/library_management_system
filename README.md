@@ -1,7 +1,3 @@
-# LibMang
-
-------------
-
 Project Name: Library Management System
 
 ------------
