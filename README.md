@@ -40,19 +40,25 @@ Given are the project files
 ------------
 
 <h3>Screenshots: </h3>
+Menu page:
 <img src="screenshots/menu.png">
 <br>
 <br>
+Add page:
 <img src="screenshots/add.png">
 <br>
 <br>
+Delete page:
 <img src="screenshots/del.png">
 <br>
 <br>
+Issue page:
 <img src="screenshots/issue.png">
 <br>
 <br>
+Return page:
 <img src="screenshots/return.png">
 <br>
 <br>
+View page:
 <img src="screenshots/view.png">
