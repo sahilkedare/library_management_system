@@ -40,37 +40,37 @@ Given are the project files
 ------------
 
 <h3>Screenshots: </h3>
-Menu page:
+<h4>Menu page:</h4>
 
 <br>
 <img src="screenshots/menu.png">
 <br>
 <br>
-Add page:
+<h4>Add page:</h4>
 
 <br>
 <img src="screenshots/add.png">
 <br>
 <br>
-Delete page:
+<h4>Delete page:</h4>
 
 <br>
 <img src="screenshots/del.png">
 <br>
 <br>
-Issue page:
+<h4>Issue page:</h4>
 
 <br>
 <img src="screenshots/issue.png">
 <br>
 <br>
-Return page:
+<h4>Return page:</h4>
 
 <br>
 <img src="screenshots/return.png">
 <br>
 <br>
-View page:
+<h4>View page:</h4>
 
 <br>
 <img src="screenshots/view.png">
