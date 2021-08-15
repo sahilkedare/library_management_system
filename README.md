@@ -40,7 +40,19 @@ Given are the project files
 ------------
 
 <h3>Screenshots: </h3>
+<img src="screenshots/menu.png">
+<br>
+<br>
 <img src="screenshots/add.png">
 <br>
 <br>
 <img src="screenshots/del.png">
+<br>
+<br>
+<img src="screenshots/issue.png">
+<br>
+<br>
+<img src="screenshots/return.png">
+<br>
+<br>
+<img src="screenshots/view.png">
