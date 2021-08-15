@@ -39,4 +39,5 @@ Given are the project files
 
 ------------
 
-<h3>Screenshots</h3>
+<h3>Screenshots: </h3>
+<img src="screeenshots/add.png">
