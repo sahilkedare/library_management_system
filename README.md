@@ -68,3 +68,5 @@ Given are the project files
 <h4>View page:</h4>
 <br>
 <img src="screenshots/view.png">
+<br>
+<h2>Thank You 😃</h2>
