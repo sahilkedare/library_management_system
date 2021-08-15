@@ -41,24 +41,30 @@ Given are the project files
 
 <h3>Screenshots: </h3>
 Menu page:
+<br>
 <img src="screenshots/menu.png">
 <br>
 <br>
 Add page:
+<br>
 <img src="screenshots/add.png">
 <br>
 <br>
 Delete page:
+<br>
 <img src="screenshots/del.png">
 <br>
 <br>
 Issue page:
+<br>
 <img src="screenshots/issue.png">
 <br>
 <br>
 Return page:
+<br>
 <img src="screenshots/return.png">
 <br>
 <br>
 View page:
+<br>
 <img src="screenshots/view.png">
