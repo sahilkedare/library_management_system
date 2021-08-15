@@ -2,8 +2,7 @@ Project Name: Library Management System
 
 ------------
 
-CONTENTS
-
+CONTENTS :
 1. Introduction
 2. Tools/Libraries Used
 3. Project Files
