@@ -41,3 +41,6 @@ Given are the project files
 
 <h3>Screenshots: </h3>
 <img src="screenshots/add.png">
+<br>
+<br>
+<img src="screenshots/del.png">
